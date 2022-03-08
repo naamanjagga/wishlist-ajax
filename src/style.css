@@ -1,0 +1,18 @@
+tr{
+    border: 10px solid black;
+}
+td {
+    padding: 20px;
+    border: 10px solid black;
+}
+.add-to-wishlist , .add-to-cart ,.buy-now {
+    margin-top: 10px;
+    background-color: lightskyblue ;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
